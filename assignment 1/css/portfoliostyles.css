@@ -1,0 +1,239 @@
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+.grid-gif1{
+  width: 250px;
+  height: 250px;
+}
+.grid-gif2{
+  width: 300px;
+  height: 250px;
+}
+.grid-gif3{
+  width: 300px;
+  height: 250px;
+}
+.grid-gif4{
+  width: 300px;
+  height: 250px;
+}
+.grid-item{
+  width: 300px;
+  height: 250px;
+  display: inline-block;
+  width: 300px;
+  height: 250px;
+  background-color:  #eeeeee;
+  border-radius: 40%;
+  margin: 0 20px;
+}
+
+.hobby-name{
+  font-family: "Merriweather";
+  color: #40514E;
+}
+/* Navigation Bar */
+
+nav{
+  font-size: 1.2rem;
+  background-color:#f6f6f6;
+  padding:22px 0;
+}
+
+.nav-item{
+  color: #928a97;
+}
+
+nav a:hover{
+  color: #625772;
+}
+
+/* Doubt */
+/* nav .nav-brand a:hover{
+  color: #625772;
+} */
+
+
+li #nav-brand{
+  font-size: 2.4rem;
+  font-weight: bold;
+  color: #7ac7c4;
+  padding-right: 200px;
+  margin-left: 60px;
+  margin-right: 150px;
+}
+nav li .nav-item{
+  font-weight: lighter;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+li{
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  font-weight: lighter;
+}
+
+a{
+  text-decoration: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Home section */
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #ECEAE8;
+  border-width: 9px;
+  width: 5%;
+  height: 4px;
+  margin: 100px auto ;
+}
+p{
+  font-weight:bold;
+  line-height:2;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin:50px auto 0 auto;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat',sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat',sans-serif;
+  color: #11999E;
+}
+
+.profile-pic{
+  border-radius: 50%;
+  height: 210px;
+  width: 210px;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+
+  padding: 100px 0;
+
+}
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px auto;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px 0;
+  padding-top: 40px;
+  line-height: 3;
+}
+.pro{
+  text-decoration: underline;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.design-and-development{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.photography{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #276873;
+	background-color: #11cdd4;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat',sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+  margin:40px auto 90px auto;
+  height: 12px;
+  padding: 10px 20px 20px 20px;
+}
+.myButton:hover {
+	background-color: #2bc4ad;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+a{
+  color: #11999E;
+  margin:10px 20px;
+  text-decoration: none;
+  font-family: "Montserrat",cursive;
+  font-weight: bold;
+
+}
+
+a:hover{
+  color: #EAF6F6
+}
+
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0 10px;
+  font-family: "Montserrat",cursive;
+}
+.contact-me{
+
+}
